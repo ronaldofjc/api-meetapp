@@ -1,0 +1,11 @@
+{
+  "name": "api-meetapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ronaldofjc/api-meetapp.git",
+  "author": "Ronaldo <ronaldofjc@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
